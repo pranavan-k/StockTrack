@@ -4,7 +4,7 @@ Stock track uses the **yfinance** api and the **TKinter** gui library to display
 
 ## How to use
 
-** Packages **
+**Packages**
 - yfinance
 - mplfinance
 - tkitner
